@@ -18,3 +18,4 @@ Ziel war es, eine praxisnahe Desktop-Anwendung zu entwickeln und grundlegende Ko
 
 ## Status
 Projekt in Entwicklung – weitere Funktionen und Verbesserungen geplant.
+<img width="1055" height="622" alt="image" src="https://github.com/user-attachments/assets/78d9e75b-af41-4eaf-b93b-e56951b7b99f" />
